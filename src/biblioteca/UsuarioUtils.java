@@ -2,7 +2,7 @@ package biblioteca;
 
 public class UsuarioUtils {
 
-	public boolean auteticar() {
+	public boolean login() {
 		return false;
 	}
 }
